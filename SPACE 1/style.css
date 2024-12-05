@@ -1,0 +1,34 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.title{
+    font-size: 36px;
+    color: #091133;
+    line-height: 48px;
+}
+p{
+    line-height: 26px;
+}
+.subtext , .subtext2{
+    width: 540px;
+    font-weight: 400;
+}
+.titlehere{
+    height: 138px;
+    width: 255px;
+}
+
+.titles{
+    display: flex;
+    margin-top: 39px;
+    margin-left: 118px;
+}
+.texts{
+    margin-left: 106px;
+    margin-top: 246px;
+}
+.mainphoto{
+    margin-top: -550px;
+    margin-left: 805px;
+}
